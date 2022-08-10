@@ -6,7 +6,7 @@ Zoe,Prowse,2022,4,CD_I1014663,Ruck,AD,7
 Rachelle,Martin,2022,5,CD_I1011091,Midfielder,AD,7
 Hannah,Button,2022,6,CD_I1011092,Forward,AD,7
 Keeley,Kustermann,2022,7,CD_I1019456,Defender,AD,7
-Najwa,Allen,2022,8,CD_I1014559,Midfielder,AD,7
+Najwa,Allen,2022,8,CD_I1014559,Defender,AD,7
 Deni,Varnhagen,2022,9,CD_I1005251,Midfielder,AD,7
 McKenzie,Dowrick,2022,9,CD_I1009894,Forward,AD,7
 Ebony,Marinoff,2022,10,CD_I1005279,Midfielder,AD,7
@@ -70,7 +70,7 @@ Darcy,Vescio,2022,3,CD_I997663,Forward,CA,7
 Keeley,Skepper,2022,4,CD_I1014991,Midfielder,CA,7
 Abbie,McKay,2022,5,CD_I1013027,Forward,CA,7
 Gabriella,Pound,2022,6,CD_I1007026,Defender,CA,7
-Brooke,Walker,2022,7,CD_I1012558,Forward,CA,7
+Brooke,Walker,2022,7,CD_I1012558,Defender,CA,7
 Vaomua,Laloifi,2022,8,CD_I1012595,Defender,CA,7
 Kerryn,Peterson,2022,9,CD_I1009977,Defender,CA,7
 Mimi,Hill,2022,10,CD_I1015047,Midfielder,CA,7
@@ -86,7 +86,7 @@ Mia,Austin,2022,22,CD_I1025564,Forward,CA,7
 Daisy,Walker,2022,23,CD_I1015105,Defender,CA,7
 Brooke,Vickers,2022,24,CD_I1019819,Defender,CA,7
 Keeley,Sherar,2022,25,CD_I1019711,Forward,CA,7
-Paige,Trudgeon,2022,26,CD_I1021793,Forward,CA,7
+Paige,Trudgeon,2022,26,CD_I1021793,Defender,CA,7
 Imogen,Milford,2022,28,CD_I1012669,Forward,CA,7
 Natalie,Plane,2022,32,CD_I1007025,Forward,CA,7
 Serena,Gibbs,2022,33,CD_I1014887,Ruck,CA,7
@@ -102,7 +102,7 @@ Imogen,Evans,2022,5,CD_I1021457,Midfielder,CW,7
 Jordyn,Allen,2022,6,CD_I997736,Defender,CW,7
 Sarah,Rowe,2022,7,CD_I1013706,Forward,CW,7
 Brittany,Bonnici,2022,8,CD_I997729,Midfielder,CW,7
-Alana,Porter,2022,9,CD_I1015053,Midfielder,CW,7
+Alana,Porter,2022,9,CD_I1015053,Defender,CW,7
 Ashleigh,Brazill,2022,10,CD_I1010663,Defender,CW,7
 Charlotte,Taylor,2022,11,CD_I1019817,Defender,CW,7
 Stacey,Livingstone,2022,12,CD_I1007015,Defender,CW,7
@@ -150,7 +150,7 @@ Amelia,Radford,2022,22,CD_I1026008,Midfielder,ES,7
 Renee,Tierney,2022,23,CD_I1014366,Forward,ES,7
 Sophie,Alexander,2022,24,CD_I1012580,Forward,ES,7
 Ashleigh,Van Loon,2022,26,CD_I1015174,Midfielder,ES,7
-Sophie,Van De Heuvel,2022,27,CD_I1009765,Forward,ES,7
+Sophie,Van De Heuvel,2022,27,CD_I1009765,Midfielder,ES,7
 Mia,Busch,2022,28,CD_I1019705,Defender,ES,7
 Stephanie,Wales,2022,30,CD_I1027783,Ruck,ES,7
 Paige,Scott,2022,32,CD_I1019762,Forward,ES,7
@@ -255,7 +255,7 @@ Madeline,Keryk,2022,45,CD_I997678,Defender,GE,7
 Ellie,Hampson,2022,1,CD_I1009843,Defender,GC,7
 Lauren,Bella,2022,2,CD_I1009963,Ruck,GC,7
 Tori,Groves-Little,2022,3,CD_I1009832,Forward,GC,7
-Claudia,Whitfort,2022,4,CD_I1010662,Defender,GC,7
+Claudia,Whitfort,2022,4,CD_I1010662,Forward,GC,7
 Courtney,Jones,2022,5,CD_I1009862,Midfielder,GC,7
 Maddison,Levi,2022,6,CD_I1017325,Defender,GC,7
 Lauren,Ahrens,2022,7,CD_I1012661,Midfielder,GC,7
@@ -281,7 +281,7 @@ Claire,Ransom,2022,32,CD_I1019849,Midfielder,GC,7
 Alison,Drennan,2022,33,CD_I1012712,Midfielder,GC,7
 Tahlia,Meyer,2022,34,CD_I1014561,Midfielder,GC,7
 Ashlee,Atkins,2022,37,CD_I1010661,Forward,GC,7
-Vivien,Saad,2022,39,CD_I1016956,Ruck,GC,7
+Vivien,Saad,2022,39,CD_I1016956,Defender,GC,7
 Jasmyn,Smith,2022,40,CD_I1022695,Forward,GC,7
 Jade,Pregelj,2022,42,CD_I1019061,Defender,GC,7
 Tegan,Cunningham,2022,1,CD_I1010659,Forward,HW,7
@@ -316,7 +316,7 @@ Akec,Makur Chuot,2022,34,CD_I1017027,Defender,HW,7
 Catherine,Brown,2022,42,CD_I1022047,Defender,HW,7
 Georgia,Campbell,2022,1,CD_I1019713,Ruck,ME,7
 Olivia,Purcell,2022,2,CD_I1009861,Midfielder,ME,7
-Maddison,Gay,2022,3,CD_I1009976,Forward,ME,7
+Maddison,Gay,2022,3,CD_I1009976,Midfielder,ME,7
 Karen,Paxman,2022,4,CD_I998149,Midfielder,ME,7
 Tyla,Hanks,2022,5,CD_I1009853,Forward,ME,7
 Daisy,Pearce,2022,6,CD_I998047,Forward,ME,7
@@ -358,7 +358,7 @@ Nicole,Bresnehan,2022,12,CD_I1013120,Defender,NM,7
 Zoe,Savarirayan,2022,13,CD_I1029619,Midfielder,NM,7
 Erika,O'Shea,2022,14,CD_I1029615,Defender,NM,7
 Amy,Smith,2022,15,CD_I1021528,Midfielder,NM,7
-Tahlia,Randall,2022,16,CD_I1003023,Defender,NM,7
+Tahlia,Randall,2022,16,CD_I1003023,Forward,NM,7
 Sarah,Wright,2022,17,CD_I1016904,Forward,NM,7
 Ella,Maurer,2022,19,CD_I1016781,Midfielder,NM,7
 Jasmine,Ferguson,2022,20,CD_I1013442,Defender,NM,7
@@ -401,7 +401,7 @@ Kate,Surman,2022,26,CD_I1018955,Forward,PA,7
 Gemma,Houghton,2022,27,CD_I1007141,Forward,PA,7
 Cheyenne,Hammond,2022,28,CD_I1011062,Defender,PA,7
 Elizabeth,McGrath,2022,29,CD_I1017514,Ruck,PA,7
-Litonya,Cockatoo-Motlap,2022,30,CD_I1022704,Forward,PA,7
+Litonya,Cockatoo-Motlap,2022,30,CD_I1022704,Defender,PA,7
 Laquoiya,Cockatoo-Motlap,2022,31,CD_I1022703,Forward,PA,7
 Brittany,Perry,2022,33,CD_I1007338,Forward,PA,7
 Sophie,Molan,2022,1,CD_I1013020,Midfielder,RI,7
