@@ -1,29 +1,57 @@
 player_id,player_given_name,player_surname,team_id,season_id,season_num,round_id,Playing,Notes
-CD_I1005956,Dayna,Cox,AD,2022,7,0,-3,inactive
-CD_I1005251,Deni,Varnhagen,AD,2022,7,0,-3,inactive
-CD_I1010655,Jasmyn,Hewett,AD,2022,7,0,-3,inactive
-CD_I1009826,Gabrielle,Collingwood,BL,2022,7,0,-3,inactive
-CD_I1021438,Maggie,Harmer,BL,2022,7,0,-3,inactive
-CD_I1022689,Bella,Smith,BL,2022,7,0,-3,inactive
-CD_I1003020,Brianna,Davey,CW,2022,7,0,-3,inactive
-CD_I997729,Brittany,Bonnici,CW,2022,7,0,-3,inactive
-CD_I1005416,Ashley,Sharp,FR,2022,7,0,-3,inactive
-CD_I1017340,Mikayla,Morrison,FR,2022,7,0,-3,inactive
-CD_I1019061,Jade,Pregelj,GC,2022,7,0,-3,inactive
-CD_I1017325,Maddison,Levi,GC,2022,7,0,-3,inactive
-CD_I1021451,Teagan,Levi,GC,2022,7,0,-3,inactive
-CD_I1018024,Emily,Goodsir,GW,2022,7,0,-3,inactive
-CD_I1022750,Isadora,McLeay,GW,2022,7,0,-3,inactive
-CD_I1007313,Jessica,Allan,GW,2022,7,0,-3,inactive
-CD_I997725,Isabel,Huntington,GW,2022,7,0,-3,inactive
-CD_I1010236,Gabrielle,Colvin,ME,2022,7,0,-3,inactive
-CD_I1012734,Rhiannon,Watt,ME,2022,7,0,-3,inactive
-CD_I1015088,Eliza,McNamara,ME,2022,7,0,-3,inactive
-CD_I1017029,Grace,Campbell,NM,2022,7,0,-3,inactive
-CD_I1012628,Hannah,Burchell,RI,2022,7,0,-3,inactive
-CD_I1007152,Harriet,Cordner,RI,2022,7,0,-3,inactive
-CD_I1005287,Leah,Cutting,SK,2022,7,0,-3,inactive
-CD_I1015021,Aurora,Smith,WB,2022,7,0,-3,inactive
-CD_I1010656,Evangeline,Gooch,WC,2022,7,0,-3,inactive
-CD_I1022825,Lauren,Wakfer,WC,2022,7,0,-3,inactive
-CD_I1013522,Georgia,Nanscawen,ES,2022,7,0,-3,injured
+CD_I1005251,Deni,Varnhagen,Adelaide Crows,2022,7,3,-2,
+CD_I1010655,Jasmyn,Hewett,Adelaide Crows,2022,7,3,-2,
+CD_I1005956,Dayna,Cox,Adelaide Crows,2022,7,3,-2,
+CD_I1009824,Lily,Postlethwaite,Brisbane Lions,2022,7,3,-2,
+CD_I1009826,Gabrielle,Collingwood,Brisbane Lions,2022,7,3,-2,
+CD_I1005638,Kate,Lutkins,Brisbane Lions,2022,7,3,-2,
+CD_I1022689,Bella,Smith,Brisbane Lions,2022,7,3,-2,
+CD_I997729,Brittany,Bonnici,Collingwood,2022,7,3,-2,
+CD_I1015102,Abbi,Moloney,Collingwood,2022,7,3,-2,
+CD_I1013522,Georgia,Nanscawen,Essendon,2022,7,3,-2,
+CD_I997715,Bella,Ayre,Essendon,2022,7,3,-2,
+CD_I1012547,Jorja,Borg,Essendon,2022,7,3,-2,
+CD_I1005416,Ashley,Sharp,Fremantle,2022,7,3,-2,
+CD_I1017340,Mikayla,Morrison,Fremantle,2022,7,3,-2,
+CD_I1001682,Ebony,Antonio,Fremantle,2022,7,3,-2,
+CD_I1022824,Makaela,Tuhakaraina,Fremantle,2022,7,3,-2,
+CD_I998036,Kara,Antonio,Fremantle,2022,7,3,-2,
+CD_I1009893,Matilda,Sergeant,Fremantle,2022,7,3,-2,
+CD_I1019060,Janelle,Cuthbertson,Fremantle,2022,7,3,-2,
+CD_I1017325,Maddison,Levi,Gold Coast Suns,2022,7,3,-2,
+CD_I1021451,Teagan,Levi,Gold Coast Suns,2022,7,3,-2,
+CD_I1022701,Alana,Gee,Gold Coast Suns,2022,7,3,-2,
+CD_I1019061,Jade,Pregelj,Gold Coast Suns,2022,7,3,-2,
+CD_I1024296,Rachel,Kearns,Geelong Cats,2022,7,3,-2,
+CD_I1025879,Samantha,Gooden,Geelong Cats,2022,7,3,-2,
+CD_I1012474,Maddy,McMahon,Geelong Cats,2022,7,3,-2,
+CD_I1018024,Emily,Goodsir,GWS Giants,2022,7,3,-2,
+CD_I997725,Isabel,Huntington,GWS Giants,2022,7,3,-2,
+CD_I1022750,Isadora,McLeay,GWS Giants,2022,7,3,-2,
+CD_I1024584,Fleur,Davies,GWS Giants,2022,7,3,-2,
+CD_I1014869,Jenna,Richardson,Hawthorn,2022,7,3,-2,
+CD_I1025507,Emily,Everist,Hawthorn,2022,7,3,-2,
+CD_I1015088,Eliza,McNamara,Melbourne,2022,7,3,-2,
+CD_I1018966,Sinead,Goldrick,Melbourne,2022,7,3,-2,
+CD_I1015025,Georgia,Gall,Melbourne,2022,7,3,-2,
+CD_I1010236,Gabrielle,Colvin,Melbourne,2022,7,3,-2,
+CD_I1017029,Grace,Campbell,Kangaroos,2022,7,3,-2,
+CD_I1022704,Litonya,Cockatoo-Motlap,Port Adelaide,2022,7,3,-2,
+CD_I1019681,Charley,Ryan,Richmond,2022,7,3,-2,
+CD_I1007152,Harriet,Cordner,Richmond,2022,7,3,-2,
+CD_I1014835,Tyanna,Smith,St Kilda,2022,7,3,-2,
+CD_I1018875,Grace,Kelly,St Kilda,2022,7,3,-2,
+CD_I1014951,Renee,Saulitis,St Kilda,2022,7,3,-2,
+CD_I1005287,Leah,Cutting,St Kilda,2022,7,3,-2,
+CD_I1022738,Ruby,Sargent-Wilson,Sydney,2022,7,3,-2,
+CD_I1003022,Maddy,Collier,Sydney,2022,7,3,-2,
+CD_I1015152,Montana,Ham,Sydney,2022,7,3,-2,
+CD_I1016854,Jaide,Anthony,Sydney,2022,7,3,-2,
+CD_I1012957,Alice,Mitchell,Sydney,2022,7,3,-2,
+CD_I1007020,Kirsten,McLeod,Western Bulldogs,2022,7,3,-2,
+CD_I1015021,Aurora,Smith,Western Bulldogs,2022,7,3,-2,
+CD_I1022825,Lauren,Wakfer,West Coast Eagles,2022,7,3,-2,
+CD_I998041,Kellie,Gibson,West Coast Eagles,2022,7,3,-2,
+CD_I1021530,Shanae,Davison,West Coast Eagles,2022,7,3,-2,
+CD_I1010656,Evangeline,Gooch,West Coast Eagles,2022,7,3,-2,
+CD_I1012734,Rhiannon,Watt,Melbourne,2022,7,3,-2,
