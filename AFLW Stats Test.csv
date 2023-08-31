@@ -407,7 +407,7 @@ CD_I1009828,Jade Ellenger,Jade,Ellenger,BRL,5,Defender,73200,0,0,0,0,100,0,0,0,0
 CD_I1009828,Jade Ellenger,Jade,Ellenger,BRL,5,Defender,73200,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,9,NONE,0,STK,73200,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I1009828,Jade Ellenger,Jade,Ellenger,BRL,5,Defender,73200,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,10,NONE,0,MEL,73200,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I1009824,Lily Postlethwaite,Lily,Postlethwaite,BRL,6,Midfielder,28700,0,0,16.9722058,17.49711938,100,0,0,0,0,0,0,0,0,1,0,0,100,1,8,0,LAST,0,-,28700,0,0,0,0,0,0,0,0,0,0,0,0
-CD_I1009824,Lily Postlethwaite,Lily,Postlethwaite,BRL,6,Midfielder,28700,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,1,NONE,0,RIC,28700,0,0,0,0,0,0,0,0,0,0,0,0
+CD_I1009824,Lily Postlethwaite,Lily,Postlethwaite,BRL,6,Midfielder,28700,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,45,1,8,1,LIVE,0,RIC,28700,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I1009824,Lily Postlethwaite,Lily,Postlethwaite,BRL,6,Midfielder,28700,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,2,NONE,0,PTA,28700,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I1009824,Lily Postlethwaite,Lily,Postlethwaite,BRL,6,Midfielder,28700,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,3,NONE,0,SYD,28700,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I1009824,Lily Postlethwaite,Lily,Postlethwaite,BRL,6,Midfielder,28700,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,4,NONE,0,NTH,28700,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1737,8 +1737,8 @@ CD_I1021527,Brooke Brown,Brooke,Brown,ESS,36,Defender,84600,0,0,0,0,100,0,0,0,0,
 CD_I1021527,Brooke Brown,Brooke,Brown,ESS,36,Defender,84600,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,8,NONE,0,WCE,84600,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I1021527,Brooke Brown,Brooke,Brown,ESS,36,Defender,84600,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,9,NONE,0,CAR,84600,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I1021527,Brooke Brown,Brooke,Brown,ESS,36,Defender,84600,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,10,NONE,0,GCS,84600,0,0,0,0,0,0,0,0,0,0,0,0
-CD_I998030,Kiara Bowers,Kiara,Bowers,FRE,2,Midfielder,204600,0,0,120.993495,124.7355618,100,0,0,0,0,0,0,0,121,10,184,115.1666667,100,1,8,0,LAST,0,-,204600,0,0,0,0,0,0,0,0,0,0,0,0
-CD_I998030,Kiara Bowers,Kiara,Bowers,FRE,2,Midfielder,200000,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,1,NONE,0,WCE,204600,0,0,0,0,0,0,0,0,0,0,0,0
+CD_I998030,Kiara Bowers,Kiara,Bowers,FRE,2,Midfielder,204600,0,0,120.993495,124.7355618,100,0,0,0,0,0,0,0,121,10,184,115.1666667,0,-1,8,0,LAST,0,-,204600,0,0,0,0,0,0,0,0,0,0,0,0
+CD_I998030,Kiara Bowers,Kiara,Bowers,FRE,2,Midfielder,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,8,1,LIVE,0,WCE,204600,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I998030,Kiara Bowers,Kiara,Bowers,FRE,2,Midfielder,150000,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,2,NONE,0,COL,204600,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I998030,Kiara Bowers,Kiara,Bowers,FRE,2,Midfielder,100000,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,3,NONE,0,HAW,204600,0,0,0,0,0,0,0,0,0,0,0,0
 CD_I998030,Kiara Bowers,Kiara,Bowers,FRE,2,Midfielder,204600,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,100,1,8,4,NONE,0,ESS,204600,0,0,0,0,0,0,0,0,0,0,0,0
