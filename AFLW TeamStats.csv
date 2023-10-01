@@ -1,4 +1,4 @@
-"Team","Last","LastOpp","Season","SeasonOpp","Giveup70","Giveup100","Top3Mid","Top3OppMid","TopRuc","TopOppRuc","Top2Def","Top2OppDef","Top2For","Top2OppFor","RoundID","season_num","season"
+"Team","Last","LastOpp","Season","SeasonOpp","Giveup70","Giveup100","Top3Mid","Top3OppMid","TopRuc","TopOppRuc","Top2Def","Top2OppDef","Top2For","Top2OppFor","RoundID","season_num","year"
 "MEL",1171,1021,1199,1006,6,2,80,87,62,42,63,55,89,64,5,8,2023
 "COL",960,993,997,1047,4,2,91,80,30,59,55,65,66,68,5,8,2023
 "CAR",1082,1234,1123,1118,6,2,82,101,89,71,61,63,77,67,5,8,2023
